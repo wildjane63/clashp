@@ -1,7 +1,4 @@
 proxies:
-    - { name: '剩余流量：84.98 GB', type: ss, server: '0', port: 0, cipher: chacha20-ietf-poly1305, password: 99cd70a5-aa71-4f6b-ba9d-20711f92b718, udp: true }
-    - { name: 套餐到期：长期有效, type: ss, server: '0', port: 0, cipher: chacha20-ietf-poly1305, password: 99cd70a5-aa71-4f6b-ba9d-20711f92b718, udp: true }
-    - { name: 用不了请更新订阅, type: ss, server: '0', port: 0, cipher: chacha20-ietf-poly1305, password: 99cd70a5-aa71-4f6b-ba9d-20711f92b718, udp: true }
     - { name: 日本01‖CN2‖2x‖, type: vmess, server: rbcn2.iikk05.xyz, port: 23375, uuid: 99cd70a5-aa71-4f6b-ba9d-20711f92b718, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: /gitee, headers: { Host: rb3.iikk05.xyz } }, ws-path: /gitee, ws-headers: { Host: rb3.iikk05.xyz } }
     - { name: 沪日专线‖IPLC‖8x‖, type: vmess, server: zx1.iikk05.xyz, port: 49554, uuid: 99cd70a5-aa71-4f6b-ba9d-20711f92b718, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: /gitee, headers: { Host: rb3.iikk05.xyz } }, ws-path: /gitee, ws-headers: { Host: rb3.iikk05.xyz } }
     - { name: 日本02‖高速‖1.5x‖, type: vmess, server: rbgs.iikk05.xyz, port: 10387, uuid: 99cd70a5-aa71-4f6b-ba9d-20711f92b718, alterId: 0, cipher: auto, udp: true, network: ws, ws-opts: { path: /gitee, headers: { Host: rb3.iikk05.xyz } }, ws-path: /gitee, ws-headers: { Host: rb3.iikk05.xyz } }
